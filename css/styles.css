@@ -86,7 +86,9 @@ body {
   color: #fff;
 }
 
-.button :hover,
+.button :hover {
+  background-color: #404bbf;
+}
 .button :focus {
   background-color: #404bbf;
 }
