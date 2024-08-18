@@ -62,8 +62,6 @@ body {
 }
 
 .title {
-  width: 1440px;
-  height: 600px;
   background-color: #2e2f42;
 }
 
@@ -90,7 +88,7 @@ body {
 
 .button :hover,
 .button :focus {
-  background: #404bbf;
+  background-color: #404bbf;
 }
 
 .name-fact {
@@ -116,7 +114,6 @@ body {
   line-height: 1.11;
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
@@ -170,8 +167,6 @@ body {
 
 .footr {
   background-color: #2e2f42;
-  width: 1440px;
-  height: 312px;
 }
 
 .foort-paragraph {
